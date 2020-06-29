@@ -1,0 +1,25 @@
+{
+  "name": "reacttut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigman8857/reactTut.git"
+  },
+  "author": "OhSva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigman8857/reactTut/issues"
+  },
+  "homepage": "https://github.com/pigman8857/reactTut#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
