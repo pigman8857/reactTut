@@ -2,14 +2,7 @@ import React from 'react';
 
 function Header() {
     return (
-        <nav>
-            <h1>MUDAMUDAMUDA</h1>
-            <ul>
-                <li>Thing #1</li>
-                <li>Thing #2</li>
-                <li>Thing #3</li>
-            </ul>
-        </nav>
+        <header className="navbar">This is the header</header>
     )
 }
 
